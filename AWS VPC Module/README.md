@@ -13,7 +13,7 @@ It supports:
 This structure is **interview-ready**, **production-aligned**, and **scalable for future stages**.
 
 ---
-
+![image](https://github.com/abhijitray7810/Terraform-Module-Project/blob/b24939864eb2b3956ef2e9d9907760f7ac14e5e2/AWS%20VPC%20Module/Image.png)
 ## 📌 Architecture Overview
 
 * One VPC
