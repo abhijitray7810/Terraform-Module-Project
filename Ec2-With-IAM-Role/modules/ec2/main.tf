@@ -6,7 +6,7 @@ resource "aws_instance" "main" {
   iam_instance_profile = var.instance_profile
 
   tags = {
-    Name = "ec2-iam-role"
+    Name = "ec2-iam-role
   }
 }
 
