@@ -7,7 +7,7 @@ It supports:
 * User-defined VPC CIDR
 * Multiple subnets
 * Public & private subnets
-* Conditional Internet Gateway creation
+* Conditional Internet Gateway creation 
 * Automatic route table association for public subnets
 
 This structure is **interview-ready**, **production-aligned**, and **scalable for future stages**.
