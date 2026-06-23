@@ -9,7 +9,7 @@ It supports:
 * Public & private subnets
 * Conditional Internet Gateway creation 
 * Automatic route table association for public subnets
- 
+
 This structure is **interview-ready**, **production-aligned**, and **scalable for future stages**.
 
 ---
