@@ -19,7 +19,7 @@ This structure is **interview-ready**, **production-aligned**, and **scalable fo
 * One VPC 
 * Multiple subnets across Availability Zones
 * Public subnets:
- 
+  
   * Auto-assign public IP
   * Internet Gateway attached
   * Public route table association
